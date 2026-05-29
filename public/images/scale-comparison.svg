@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1678" height="945" viewBox="0 0 1678 945" role="img" aria-labelledby="title desc">
+  <title id="title">Scale comparison placeholder</title>
+  <desc id="desc">A placeholder for the microchip to space station comparison image.</desc>
+  <rect width="1678" height="945" fill="#ffffff"/>
+  <text x="839" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#111827">
+    Add your comparison image here
+  </text>
+  <text x="839" y="495" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#4b5563">
+    public/images/scale-comparison.png
+  </text>
+  <text x="839" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#6b7280">
+    The carousel is already wired to this asset path.
+  </text>
+</svg>
