@@ -21,7 +21,9 @@ export default function App() {
       </section>
 
       <footer className="border-t border-white/10 bg-[#090d14] px-5 py-8 text-center text-sm text-zinc-500">
-        <p>AI thumbnail concepts</p>
+        <p className="text-xs uppercase tracking-[0.28em] text-zinc-600">
+          lenardlasala
+        </p>
       </footer>
     </main>
   );
