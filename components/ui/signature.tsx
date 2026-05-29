@@ -2,6 +2,7 @@ import { Carousel } from "@ark-ui/react/carousel";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 
 import generatedImage from "../../assets/gpt-image-2-1.png";
+import newGeneratedImage from "../../assets/gpt-image-2-1 (1).png";
 import scaleComparisonImage from "../../assets/img1.png";
 import secondScaleComparisonImage from "../../assets/img2.png";
 
@@ -17,6 +18,10 @@ const images = [
   {
     full: generatedImage,
     thumb: generatedImage,
+  },
+  {
+    full: newGeneratedImage,
+    thumb: newGeneratedImage,
   },
 ];
 
